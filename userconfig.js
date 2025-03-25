@@ -226,7 +226,7 @@ const default_config = {
             {
               name: "github profile",
               alt: [],
-              url: "https://github.com/jxnvcr",
+              url: "https://github.com/jjxnvcr",
               icon: "brand-github",
               icon_color: palette.green,
             }
